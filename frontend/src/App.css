@@ -1,0 +1,28 @@
+body {
+  background-color: #F3E8FF;
+  font-family: 'Arial', sans-serif;
+}
+
+h1 {
+  color: #6B21A8 !important;
+}
+
+button {
+  background: linear-gradient(to right, #A855F7, #EC4899) !important;
+  color: white !important;
+  border: none !important;
+  border-radius: 20px !important;
+  font-weight: bold !important;
+  box-shadow: 0 4px 15px rgba(168, 85, 247, 0.4);
+}
+
+input {
+  border: 2px solid #D8B4FE !important;
+  border-radius: 15px !important;
+  background-color: white !important;
+}
+
+/* Expense wale card */
+div {
+  border-color: #E9D5FF !important;
+}
